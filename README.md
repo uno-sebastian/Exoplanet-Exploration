@@ -33,7 +33,7 @@ In this assignment, you will need to:
 ### Reporting
 
 * [The Deep Learning model is better than the Logistic Regression model.](https://github.com/uno-sebastian/machine-learning-challenge/blob/main/Deep_Learning_Model.h5)
-* The first model I tried was the logistic regression model, using GridSearchCV I went through tons of values. The testing data score turned out to be 0.8096479791395046 using the best values I found for the settings for the model. Then I used a deep learning model, achieving an accuracy of 0.8653, bringing me to conclude the deep learning model outperforms the logistic regression model.
+* The first model I tried was the logistic regression model, using GridSearchCV I went through tons of values. The testing data score turned out to be 80.96% using the best values I found for the settings for the model. Then I used a deep learning model, achieving an accuracy of 86.53%, bringing me to conclude the deep learning model outperforms the logistic regression model.
 
 - - -
 
