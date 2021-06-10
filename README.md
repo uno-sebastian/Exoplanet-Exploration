@@ -1,4 +1,4 @@
-# Sebastian's Machine Learning Challenge - Exoplanet Exploration
+# SExoplanet Exploration
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
