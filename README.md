@@ -3,7 +3,8 @@
 ## Purpose
 This project was a test to try and create a machine learning model off of real world data. Taking the data and extracting, transforming, and loading the data to use a model to train it on the available features! This was a ton of fun using the scikit learn module!
 
-![exoplanets.jpg](Images/exoplanets.jpg)
+![Model Sample](Images/Model_Sample.PNG)
+![Exoplanets](Images/exoplanets.jpg)
 
 ## Background
 
